@@ -1,0 +1,51 @@
+* {
+    font-family: 'DM Sans', sans-serif;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 100px;
+    background-color: #E5E5E5;
+}
+
+.error {
+    border: 2px solid red;
+    background: lightgoldenrodyellow;
+
+}
+
+#table, th {
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+    border:none;
+}
+
+td {
+    padding: 3px;
+    background: lightyellow;
+}
+
+.inputs {
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+.main-wrapper {
+    text-align: center;
+}
+
+.btn-delete {
+    background: lightcoral;
+    border-radius: 5px;
+}
+
+#btn-add {
+    background: lightgreen;
+    border-radius: 5px;
+}
+
